@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoktanJi
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning JSreact.
+- 🌱 I’m currently learning React JS.
 - 📫 How to reach me: never reach me 🤣.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm lazy.
