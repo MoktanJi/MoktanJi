@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoktanJi
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning MERN Stack & Tailwind CSS.
+- 🌱 I’m currently learning React JS & Tailwind CSS.
 - 📫 How to reach me: never reach me 🤣.
 - 😄 Pronouns: He/His/Him.
 - ⚡ Fun fact: I'm lazy.
